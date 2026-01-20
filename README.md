@@ -1,19 +1,28 @@
-# Hi 👋, I'm Mohammad Tanzil Masud  
+<div align="center">
 
-### 🚀 Data Science | Machine Learning | GenAI Enthusiast  
+# 👋 Hi, I'm Mohammad Tanzil Masud  
 
-I build practical, end-to-end AI solutions — from data analysis and predictive modeling  
-to GenAI applications and deployed ML systems.
+### 🚀 AI & Data Science Professional  
+Specializing in Data Analytics, Machine Learning, Deep Learning, NLP, and Predictive Modeling
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🔍 Currently Focused On
-- 🤖 Generative AI, RAG & LLM-based applications  
-- 🧠 Machine Learning & Deep Learning projects  
-- ⚙️ Deploying ML models using FastAPI & Streamlit  
-- 📊 Data analysis & experimentation  
+
+🤖 Generative AI, RAG & LLM-based applications  
+🧠 Machine Learning & Deep Learning model development  
+⚙️ Building and deploying APIs using FastAPI & Streamlit  
+📊 Data analysis, feature engineering & experimentation  
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🛠 Languages & Tools
 
@@ -29,33 +38,43 @@ to GenAI applications and deployed ML systems.
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?logo=scikit-learn)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?logo=pytorch)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🚀 Featured Projects
-- 📊 **Ad Click Prediction**  
-  ML classification project achieving 96%+ accuracy  
 
-- 🧩 **ML Code Generator (Streamlit)**  
-  Generates ready-to-run ML boilerplate for classification, clustering & anomaly detection  
+📊 **Ad Click Classification**  
+Machine learning classification project to predict ad click behavior  
 
-- 🔎 **RAG System**  
-  Document-based question answering using LLMs  
+🧩 **ML Code Generator (Streamlit)**  
+Streamlit-based app that generates ready-to-run Python code for  
+classification, clustering, and anomaly detection  
 
-- 🎓 **Student Management API**  
-  Backend REST API built with FastAPI  
+🎓 **Student Management API**  
+RESTful backend API built using Python for managing student data  
+
+😂 **Joke Generator**  
+Python-based application for generating jokes programmatically  
+
+🔎 **RAG (Retrieval-Augmented Generation)**  
+Document-based question answering using LLMs  
+
+🗂 **Task Management API**  
+Backend API designed for efficient task creation and management  
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![Tanzil's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanzilMasud&show_icons=true&theme=github_dark)
-
----
+<div align="center">
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/tanzilmasud  
-- 🧠 Portfolio: https://self.so/tanzil-masud-bm6h2x  
-- 📂 GitHub: https://github.com/TanzilMasud  
 
----
+💼 <a href="https://linkedin.com/in/tanzilmasud">LinkedIn</a>  
+📧 <strong>tanzilmasud28@gmail.com</strong>  
+📂 <a href="https://github.com/TanzilMasud">GitHub</a>  
 
-> “Learning by building. Improving by shipping.”
+</div>
