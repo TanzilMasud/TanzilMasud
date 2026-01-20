@@ -1,4 +1,4 @@
-                                                           # Hi 👋, I'm Mohammad Tanzil Masud  
+                                                    # Hi 👋, I'm Mohammad Tanzil Masud  
 
 ### Data Science | Machine Learning | GenAI Enthusiast  
 
@@ -39,10 +39,8 @@ to interactive AI apps and APIs.
 ---
 
 ### 🌐 Connect with me
-- 💼 LinkedIn: https://linkedin.com/in/tanzilmasud  
-- 🧠 Portfolio: https://self.so/tanzil-masud-bm6h2x  
+- 💼 LinkedIn: https://linkedin.com/in/tanzilmasud   
 - 📂 GitHub: https://github.com/TanzilMasud  
-
+-    Email:tanzilmasud28@gmail.com
+-    
 ---
-
-> “Learning by building, improving by sharing.”
