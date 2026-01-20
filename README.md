@@ -2,27 +2,21 @@
 
 # 👋 Hi, I'm Mohammad Tanzil Masud  
 
-### 🚀 AI & Data Science Professional  
-Specializing in Data Analytics, Machine Learning, Deep Learning, NLP, and Predictive Modeling
-
 </div>
 
----
+### 🚀 AI & Data Science Professional  
+*Specializing in Data Analytics, Machine Learning, Deep Learning, NLP, and Predictive Modeling*
 
-<div align="center">
+---
 
 ## 🔍 Currently Focused On
 
-🤖 Generative AI, RAG & LLM-based applications  
-🧠 Machine Learning & Deep Learning model development  
-⚙️ Building and deploying APIs using FastAPI & Streamlit  
-📊 Data analysis, feature engineering & experimentation  
-
-</div>
+- 🤖 Generative AI, RAG & LLM-based applications  
+- 🧠 Machine Learning & Deep Learning model development  
+- ⚙️ Building and deploying APIs using FastAPI & Streamlit  
+- 📊 Data analysis, feature engineering & experimentation  
 
 ---
-
-<div align="center">
 
 ## 🛠 Languages & Tools
 
@@ -38,43 +32,33 @@ Specializing in Data Analytics, Machine Learning, Deep Learning, NLP, and Predic
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?logo=scikit-learn)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?logo=pytorch)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🚀 Featured Projects
 
-📊 **Ad Click Classification**  
+**📊 Ad Click Classification**  
 Machine learning classification project to predict ad click behavior  
 
-🧩 **ML Code Generator (Streamlit)**  
+**🧩 ML Code Generator (Streamlit)**  
 Streamlit-based app that generates ready-to-run Python code for  
 classification, clustering, and anomaly detection  
 
-🎓 **Student Management API**  
+**🎓 Student Management API**  
 RESTful backend API built using Python for managing student data  
 
-😂 **Joke Generator**  
+**😂 Joke Generator**  
 Python-based application for generating jokes programmatically  
 
-🔎 **RAG (Retrieval-Augmented Generation)**  
+**🔎 RAG (Retrieval-Augmented Generation)**  
 Document-based question answering using LLMs  
 
-🗂 **Task Management API**  
+**🗂 Task Management API**  
 Backend API designed for efficient task creation and management  
-
-</div>
 
 ---
 
-<div align="center">
-
 ## 🌐 Connect With Me
 
-💼 <a href="https://linkedin.com/in/tanzilmasud">LinkedIn</a>  
-📧 <strong>tanzilmasud28@gmail.com</strong>  
-📂 <a href="https://github.com/TanzilMasud">GitHub</a>  
-
-</div>
+- 💼 LinkedIn: https://linkedin.com/in/tanzilmasud  
+- 📧 Email: **tanzilmasud28@gmail.com**  
+- 📂 GitHub: https://github.com/TanzilMasud 
