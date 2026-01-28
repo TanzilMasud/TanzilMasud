@@ -34,7 +34,12 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (AI • Data Analytics • BI)
+
+**📊 Blinkit Sales Analysis Dashboard (Power BI)**  
+Interactive business intelligence dashboard analyzing Blinkit sales data across outlet size, location, product categories, and ratings.  
+Deployed using GitHub Pages with a live embedded Power BI report for real-time insights.  
+🔗 Live Dashboard: https://tanzilmasud.github.io/Blinkit/  
 
 **📊 Ad Click Classification**  
 Machine learning classification project to predict ad click behavior  
