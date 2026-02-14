@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Featured Projects (AI • Data Analytics • BI)
+## 🚀 Featured Projects (AI • Data Analytics • BI )
 
 **📊 Blinkit Sales Analysis Dashboard (Power BI)**  
 Interactive business intelligence dashboard analyzing Blinkit sales data across outlet size, location, product categories, and ratings.  
