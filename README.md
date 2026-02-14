@@ -41,6 +41,11 @@ Interactive business intelligence dashboard analyzing Blinkit sales data across 
 Deployed using GitHub Pages with a live embedded Power BI report for real-time insights.  
 🔗 Live Dashboard: https://tanzilmasud.github.io/Blinkit/  
 
+🎬 Express Movies API (Node.js + Express)  
+RESTful backend API implementing full CRUD operations with clean MVC architecture, middleware validation, and logging using Morgan.  
+Designed for scalable backend development and REST principles practice.  
+🔗 GitHub Repo: https://github.com/TanzilMasud/express-movies-api
+
 **📊 Ad Click Classification**  
 Machine learning classification project to predict ad click behavior  
 
