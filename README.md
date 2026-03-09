@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Enthusiast | Python Developer | FastAPI Backend Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;AI+Enthusiast;FastAPI+Developer;Data+Science+Learner&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;AI+Enthusiast;FastAPI+Developer;Data+Science+Learner&center=true&width=700&height=70&size=30">
 </p>
 
 ---
@@ -26,6 +26,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/tanzilmasud" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
@@ -34,9 +35,6 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://instagram.com/mdtanzil____">
-<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
-</a>
 </p>
 
 ---
@@ -91,19 +89,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanzilMasud&layout=compact&theme=tokyonight">
 
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=TanzilMasud&theme=onedark">
-
----
-
-## 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=TanzilMasud&label=Profile%20views&color=blue&style=flat">
-
----
-
-⭐ From [TanzilMasud](https://github.com/TanzilMasud)
