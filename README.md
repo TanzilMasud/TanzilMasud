@@ -1,74 +1,18 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on Machine Learning and Backend Projects using FastAPI and Python<br><br>👯 I’m looking to collaborate on AI/ML and Data Science Projects<br><br>🤝 I’m looking for help with MLOps and deploying ML models<br><br>🌱 I’m currently learning FastAPI, MLOps, and advanced Machine Learning<br><br>💬 Ask me about Python, Machine Learning, FastAPI, and Data Analysis<br><br>⚡ Fun fact: I enjoy building AI projects and experimenting with new technologies
 
-# 👋 Hi, I'm Mohammad Tanzil Masud  
 
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdtanzil____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanzilmasud) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohammad Tanzil masud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanzilmasud28@gmail.com) 
 
-### 🚀 AI & Data Science Professional  
-*Specializing in Data Analytics, Machine Learning, Deep Learning, NLP, and Predictive Modeling*
-
----
-
-## 🔍 Currently Focused On
-
-- 🤖 Generative AI, RAG & LLM-based applications  
-- 🧠 Machine Learning & Deep Learning model development  
-- ⚙️ Building and deploying APIs using FastAPI & Streamlit  
-- 📊 Data analysis, feature engineering & experimentation  
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TanzilMasud&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TanzilMasud&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanzilMasud&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=TanzilMasud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-0d1117?logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1f6feb)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6f42c1)
-![SQL](https://img.shields.io/badge/SQL-0d1117?logo=mysql)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?logo=streamlit)
-
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?logo=numpy)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?logo=scikit-learn)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?logo=pytorch)
-
----
-
-## 🚀 Featured Projects (AI • Data Analytics • BI )
-
-**📊 Blinkit Sales Analysis Dashboard (Power BI)**  
-Interactive business intelligence dashboard analyzing Blinkit sales data across outlet size, location, product categories, and ratings.  
-Deployed using GitHub Pages with a live embedded Power BI report for real-time insights.  
-🔗 Live Dashboard: https://tanzilmasud.github.io/Blinkit/  
-
-🎬 Express Movies API (Node.js + Express)  
-RESTful backend API implementing full CRUD operations with clean MVC architecture, middleware validation, and logging using Morgan.  
-Designed for scalable backend development and REST principles practice.  
-🔗 GitHub Repo: https://github.com/TanzilMasud/express-movies-api
-
-**📊 Ad Click Classification**  
-Machine learning classification project to predict ad click behavior  
-
-**🧩 ML Code Generator (Streamlit)**  
-Streamlit-based app that generates ready-to-run Python code for  
-classification, clustering, and anomaly detection  
-
-**🎓 Student Management API**  
-RESTful backend API built using Python for managing student data  
-
-**😂 Joke Generator**  
-Python-based application for generating jokes programmatically  
-
-**🔎 RAG (Retrieval-Augmented Generation)**  
-Document-based question answering using LLMs  
-
-**🗂 Task Management API**  
-Backend API designed for efficient task creation and management  
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/tanzilmasud  
-- 📧 Email: **tanzilmasud28@gmail.com**  
-- 📂 GitHub: https://github.com/TanzilMasud 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
