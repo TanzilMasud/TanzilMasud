@@ -26,15 +26,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/tanzilmasud" target="blank">
+<a href="https://www.linkedin.com/in/tanzilmasud">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
-
 <a href="mailto:tanzilmasud28@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
-
+<a href="https://tanzilmasud-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/🌐 Portfolio-blueviolet?style=for-the-badge&logo=vercel">
+</a>
 </p>
 
 ---
